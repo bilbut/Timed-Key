@@ -1,5 +1,5 @@
 # Timed Key: Adding Time To A Password 
-Find old Pascal code that serves a proof of concept for this method about cybersecurity.
+Find old Pascal code that serves as proof of concept for this method about cybersecurity.
 
 Full document describing method can be found at:
 
